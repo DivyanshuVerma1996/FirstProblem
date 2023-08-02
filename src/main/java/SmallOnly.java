@@ -20,6 +20,8 @@ public class SmallOnly {
 
     public void print()
     {
-        System.out.println("Made changes in Small only file in main branch");
+
+        System.out.println(getSmaller());
+
     }
 }
