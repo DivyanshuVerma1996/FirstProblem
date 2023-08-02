@@ -21,4 +21,10 @@ public class BiggerAndSmaller {
     {
         return smaller;
     }
+
+    public void print()
+    {
+        System.out.println(getLargest());
+        System.out.println(getSmaller());
+    }
 }
