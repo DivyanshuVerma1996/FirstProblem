@@ -17,4 +17,9 @@ public class SmallOnly {
     {
         return smaller;
     }
+
+    public void print()
+    {
+        System.out.println("Made changes in Small only file in main branch");
+    }
 }
