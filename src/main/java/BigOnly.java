@@ -16,5 +16,11 @@ public class BigOnly {
     {
         return  largest;
     }
+    public void check()
+    {
 
+    }
 }
+
+
+
