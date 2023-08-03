@@ -38,9 +38,8 @@ build/
 .DS_Store
 
 #Sonar lint files
-.idea/sonarlint/issuestore/index.pb
-.idea/sonarlint/securityhotspotstore/index.pb
-.idea/vcs.xml
+
+
 .idea/sonarlint/issuestore/1/
 .idea/sonarlint/issuestore/4/
 .idea/sonarlint/issuestore/5/
@@ -49,3 +48,4 @@ build/
 .idea/sonarlint/securityhotspotstore/4/
 .idea/sonarlint/securityhotspotstore/5/
 .idea/sonarlint/securityhotspotstore/6/
+
